@@ -1,4 +1,4 @@
-⚽ Previsões League
+⚽ PREVISÕES LEAGUE
 
 **Sistema de análise preditiva focado em estatísticas de jogadores da Premier League 2024.**
 
